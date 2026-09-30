@@ -1,0 +1,95 @@
+{
+  "aiConfigured": false,
+  "roles": [
+    {
+      "role": "hero",
+      "file": "assets/hero.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: wide cinematic hero composition with a strong focal subject and generous negative space for website headline overlay. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 46394,
+      "sha256": "c0f069c4943f0f3d5cbf063460004f76945f6137c3150d9ccc234fca8dc840b7",
+      "average_hash": "0000020c0cfefbff"
+    },
+    {
+      "role": "feature",
+      "file": "assets/feature.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: editorial close-up showing the main service or product in use, premium commercial photography. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 44725,
+      "sha256": "8632c999b59294b54b535aa606300e45443092dc228b5245368ee3f80faf083b",
+      "average_hash": "000203062dfffdff"
+    },
+    {
+      "role": "catalog",
+      "file": "assets/catalog.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: organized assortment or service-category visual with multiple distinct elements, clean composition. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 46017,
+      "sha256": "f9257126bbc8c525b44e98db004e5fb4c9f2aedb74ddcc907c4808526258d04b",
+      "average_hash": "00000264ecfff7ff"
+    },
+    {
+      "role": "story",
+      "file": "assets/story.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: human-centered editorial scene showing process and craft, candid but polished. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 49874,
+      "sha256": "290c9d32fb66b5c5b0043a356c0963a14f2a355c852cef69b9866d20b9bcff80",
+      "average_hash": "08181a3c3c1e93ff"
+    },
+    {
+      "role": "process",
+      "file": "assets/process.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: workflow-oriented scene showing preparation, tools, steps or operational system. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 43249,
+      "sha256": "f5788279f98ec5749af053d0a0435375d3566dc079897b4b1527df0f60b619ab",
+      "average_hash": "0000828e0d9fffff"
+    },
+    {
+      "role": "detail",
+      "file": "assets/detail.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: high-detail close-up of material, equipment, product, dashboard or craft relevant to the business. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 47290,
+      "sha256": "d047b900afbc6f5ec481cdf2d184921547354739ed77838ecf7fc9e8e1601353",
+      "average_hash": "0000060eaefff7ff"
+    },
+    {
+      "role": "location",
+      "file": "assets/location.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: environmental interior or exterior establishing the physical or operational setting. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 48647,
+      "sha256": "26c9671edebf64b2354f6a6c465c2c46c3b32bd96512878c7d52a8db86903098",
+      "average_hash": "08787e1c0c3c38ff"
+    },
+    {
+      "role": "social",
+      "file": "assets/social.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: square-friendly energetic composition suitable for a social media card, no text. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 57509,
+      "sha256": "894cca3a1ac17514cd0757b38ece1ef7a04ea301c221ae998ec52af9993b54a6",
+      "average_hash": "0808020c6dfff1ff"
+    },
+    {
+      "role": "og",
+      "file": "assets/og.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: brand-neutral promotional composition with strong center framing and empty lower area for later text overlay. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 53056,
+      "sha256": "6ffd2c812f24922d28035fb57193cbd5488f3d2556d33ac920bafd6ee87cb2b6",
+      "average_hash": "010103074f5f9fff"
+    },
+    {
+      "role": "texture",
+      "file": "assets/texture.jpg",
+      "provider": "local-art",
+      "prompt": "Create a high-end commercial website image for a Pest Control business named Bvmoita. Scene: professional tradesperson working carefully in a real residential project, clean tools, protected surfaces. Composition: abstract but industry-specific macro texture, materials or geometry usable as a background. Photorealistic editorial quality, realistic materials and proportions, strong art direction, modern premium brand feel, natural lighting, no readable text, no logos, no watermarks, no UI gibberish, no fake certifications, no collage border.",
+      "bytes": 84107,
+      "sha256": "dd758d5249f23f531614ff43ab1f7796228147d064b9760da4e6aa54ad811b9d",
+      "average_hash": "00103a7c7c7e7c6f"
+    }
+  ]
+}
